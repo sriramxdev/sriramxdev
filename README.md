@@ -32,6 +32,8 @@ I'm Sri Ram, passionate about building robust and user-friendly Android applicat
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
+I am currently pursuing B.Tech in Computer Science and Engineering with specialization in AIML.
+
 - 🔭 I’m currently working on **Android Application Development**
 - 🌱 I’m currently learning advanced Android frameworks, Kotlin best practices, and exploring AIML/GENAI technologies
 - 👯 I’m looking to collaborate on open-source Android projects
