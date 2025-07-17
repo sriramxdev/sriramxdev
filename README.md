@@ -2,6 +2,10 @@
 
 <h2 align="center"><b>Aspiring Software Engineer | Android Developer | AI & GenAI Enthusiast</b></h2>
 
+<p align="center">
+  <img src="bnr.gif" alt="Banner" width="100%" />
+</p>
+
 ### About Me
 I am currently pursuing <b>B.Tech in Computer Science and Engineering</b> with specialization in <b>AIML</b>.
 
