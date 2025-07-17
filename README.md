@@ -1,4 +1,4 @@
-## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Sri Ram
+## Hi 👋, I am Sri Ram
 
 I'm, passionate about building robust and user-friendly applications with a keen interest in AI,Machine Learning, Gen-AI, and exploring new things. 
 
