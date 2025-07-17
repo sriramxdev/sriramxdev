@@ -2,6 +2,7 @@
 
 <h2 align="center"><b>Aspiring Software Engineer | Android Developer | AI & GenAI Enthusiast</b></h2>
 
+
 ### About Me
 I am currently pursuing B.Tech in Computer Science and Engineering with specialization in AIML.
 
