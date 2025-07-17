@@ -1,4 +1,4 @@
-<p align="center"><b><h1>Hi 👋, I am Sri Ram</h1></b></p>
+<b><h1 align="center">Hi 👋, I am Sri Ram</h1></b>
 
 I'm, passionate about building robust and user-friendly applications with a keen interest in AI,Machine Learning, Gen-AI, and exploring new things. 
 
