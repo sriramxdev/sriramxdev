@@ -12,6 +12,11 @@ I am currently pursuing <b>B.Tech in Computer Science and Engineering</b> with s
 
 ### 🛠️ Technologies & Tools
 
+#### **Programming Languages**
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+
 #### **Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -19,10 +24,8 @@ I am currently pursuing <b>B.Tech in Computer Science and Engineering</b> with s
 ![JavaFX](https://img.shields.io/badge/JavaFX-3776AB?style=flat&logo=java&logoColor=white)
 
 #### **Backend & Frameworks**
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 #### **Data Science**
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
