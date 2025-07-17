@@ -1,6 +1,6 @@
 <b><h1 align="center">Hi 👋, I am Sri Ram Sharma</h1></b>
 
-Aspiring Software Engineer | Android Developer | AI & GenAI Enthusiast | Lifelong Learner
+<p align="center"><b>Aspiring Software Engineer | Android Developer | AI & GenAI Enthusiast | Lifelong Learner</b></p>
 
 ### About Me
 I am currently pursuing B.Tech in Computer Science and Engineering with specialization in AIML.
