@@ -1,6 +1,6 @@
 <b><h1 align="center">Hi 👋, I am Sri Ram Sharma</h1></b>
 
-I'm, passionate about building robust and user-friendly applications with a keen interest in AI,Machine Learning, Gen-AI, and exploring new things. 
+Aspiring Software Engineer | Android Developer | AI & GenAI Enthusiast | Lifelong Learner
 
 ### About Me
 I am currently pursuing B.Tech in Computer Science and Engineering with specialization in AIML.
@@ -9,7 +9,7 @@ I am currently pursuing B.Tech in Computer Science and Engineering with speciali
 - 🌱 I’m currently learning advanced Android frameworks, Kotlin best practices, and exploring AIML/GENAI technologies
 - 👯 I’m looking to collaborate on open-source Android projects
 - 💬 Ask me about Android, Kotlin, or mobile app architecture
-- ⚡ Fun fact: I love exploring new tech gadgets and contributing to developer communities!
+- 
 
 ### 🛠️ Technologies & Tools I Know
 
