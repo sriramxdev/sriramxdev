@@ -16,6 +16,7 @@ I am currently pursuing <b>B.Tech in Computer Science and Engineering</b> with s
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+![C (Basic)](https://img.shields.io/badge/C-Basic-00599C?style=flat&logo=c&logoColor=white)
 
 #### **Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
