@@ -1,6 +1,15 @@
-## Hi there 👋
+## Hi 👋, I am Sri Ram
 
-I'm Sri Ram, passionate about building robust and user-friendly Android applications.
+I'm, passionate about building robust and user-friendly applications with a keen interest in AI,Machine Learning, Gen-AI, and exploring new things. 
+
+### About Me
+I am currently pursuing B.Tech in Computer Science and Engineering with specialization in AIML.
+
+- 🔭 I’m currently working on **Android Application Development**
+- 🌱 I’m currently learning advanced Android frameworks, Kotlin best practices, and exploring AIML/GENAI technologies
+- 👯 I’m looking to collaborate on open-source Android projects
+- 💬 Ask me about Android, Kotlin, or mobile app architecture
+- ⚡ Fun fact: I love exploring new tech gadgets and contributing to developer communities!
 
 ### 🛠️ Technologies & Tools I Know
 
@@ -31,14 +40,6 @@ I'm Sri Ram, passionate about building robust and user-friendly Android applicat
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-
-I am currently pursuing B.Tech in Computer Science and Engineering with specialization in AIML.
-
-- 🔭 I’m currently working on **Android Application Development**
-- 🌱 I’m currently learning advanced Android frameworks, Kotlin best practices, and exploring AIML/GENAI technologies
-- 👯 I’m looking to collaborate on open-source Android projects
-- 💬 Ask me about Android, Kotlin, or mobile app architecture
-- ⚡ Fun fact: I love exploring new tech gadgets and contributing to developer communities!
 
 <!--
 **sriramxdev/sriramxdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
