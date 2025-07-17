@@ -3,15 +3,14 @@
 <h2 align="center"><b>Aspiring Software Engineer | Android Developer | AI & GenAI Enthusiast</b></h2>
 
 ### About Me
-I am currently pursuing B.Tech in Computer Science and Engineering with specialization in AIML.
+I am currently pursuing <b>B.Tech in Computer Science and Engineering</b> with specialization in <b>AIML</b>.
 
-- 🔭 I’m currently working on **Android Application Development**
-- 🌱 I’m currently learning advanced Android frameworks, Kotlin best practices, and exploring AIML/GENAI technologies
-- 👯 I’m looking to collaborate on open-source Android projects
-- 💬 Ask me about Android, Kotlin, or mobile app architecture
-- 
+- 🔭 Currently working on <b>Android Application Development</b>
+- 🌱 Learning advanced Android frameworks, Kotlin best practices, and exploring <b>AIML/GEN-AI</b> technologies.
+- 👯 I’m looking to collaborate on <b>open-source Android projects</b>.
+- 🤝 <b>Open to Android Development and AIML/GenAI Internship Opportunities</b>.
 
-### 🛠️ Technologies & Tools I Know
+### 🛠️ Technologies & Tools
 
 #### **Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
