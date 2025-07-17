@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Sriram, passionate about building robust and user-friendly Android applications.
+I'm Sri Ram, passionate about building robust and user-friendly Android applications.
 
 - 🔭 I’m currently working on **Android Application Development**
 - 🌱 I’m currently learning advanced Android frameworks, Kotlin best practices, and exploring AIML/GENAI technologies
