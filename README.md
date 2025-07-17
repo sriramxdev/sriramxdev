@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm Sriram, passionate about building robust and user-friendly Android applications.
+
+- 🔭 I’m currently working on **Android Application Development**
+- 🌱 I’m currently learning advanced Android frameworks, Kotlin best practices, and exploring AIML/GENAI technologies
+- 👯 I’m looking to collaborate on open-source Android projects
+- 💬 Ask me about Android, Kotlin, or mobile app architecture
+- ⚡ Fun fact: I love exploring new tech gadgets and contributing to developer communities!
+
 <!--
 **sriramxdev/sriramxdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
