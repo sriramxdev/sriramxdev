@@ -1,65 +1,66 @@
-<b><h1 align="center">Hi 👋, I'm Sri Ram Sharma</h1></b>
+# Hi, I'm Sri Ram Sharma 👋
 
-<h2 align="center"><b>Aspiring Software Engineer | Android Developer | AI & GenAI Enthusiast</b></h2>
+I am a backend and systems engineer specializing in Artificial Intelligence and Machine Learning. I build edge-optimized platforms, privacy-first localized architectures, and robust telemetry pipelines. I'm a strong advocate for Free and Open Source Software (FOSS), dedicated to building high-velocity, production-grade applications.
 
-<p align="center">
-  <img src="bnr.gif" alt="Banner" width="100%" />
-</p>
+🌐 **Portfolio:** [sriramxdev.me](https://sriramxdev.me) | 🐙 **GitHub:** [github.com/sriramxdev](https://github.com/sriramxdev)
 
-### About Me
-I am currently pursuing <b>B.Tech in Computer Science and Engineering</b> with specialization in <b>AIML</b>.
+---
 
-- 🔭 Currently working on <b>Android Application Development</b>
-- 🌱 Learning advanced Android frameworks, Kotlin best practices, and exploring <b>AIML/GEN-AI</b> technologies.
-- 👯 I’m looking to collaborate on <b>open-source Android projects</b>.
-- 🤝 <b>Open to Android Development and AIML/GenAI Internship Opportunities</b>.
+### 🛠️ Technical Stack & Tooling
 
-### 🛠️ Technologies & Tools
+#### 💻 LANGUAGES & FRAMEWORKS
+*   **Languages:** Java, Python, Kotlin
 
-#### **Programming Languages**
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
-![C](https://img.shields.io/badge/C-(Basics)-00599C?style=flat&logo=c&logoColor=white)
+#### 🤖 AI / ML & LOCAL INFERENCE
+*   **Frameworks & Libraries:** PyTorch, Scikit-Learn, NumPy
+*   **Local Inference & Agents:** Ollama / Local LLMs, Hugging Face Spaces
 
-#### **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-3776AB?style=flat&logo=java&logoColor=white)
+#### 📱 MOBILE DEVELOPMENT
+*   **Android Architecture:** Android SDK, Jetpack Compose
 
-#### **Backend & Frameworks**
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+#### ⚙️ BACKEND ENGINEERING
+*   **Services & Tooling:** FastAPI, Streamlit
 
-#### **Data Science**
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+#### 🌐 WEB & INTERFACE LAYERS
+*   **Frontend Ecosystem:** Astro Framework, Cloudflare Pages, Tailwind CSS
 
-#### **Mobile Development**
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpack-compose&logoColor=white)
+#### 🗄️ DATABASE & STORAGE LAYERS
+*   **Databases:** MongoDB / BSON, SQLite, PostgreSQL, Supabase, MySQL
 
-#### **Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+#### 🛠️ CORE ENGINEERING & DEVOPS
+*   **Version Control & Platform:** Git, GitHub
+*   **Containers & Package Management:** Docker, Podman, Pixi
+*   **Operating Systems & Scripting:** Linux (Fedora & Ubuntu), Bash Shell scripting
 
-<!--
-**sriramxdev/sriramxdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Featured Open Source & Engineering Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🤖 [Echo Sync](https://github.com/sriramxdev) — Edge-Optimized Sign Language Platform (SaaS)
+*Leading a 4-person engineering team to design a privacy-first, real-time sign language translation system.*
+*   Architected an edge-optimized framework combining custom kinematics-based token pruning logic with **ONNX Runtime** for sub-100ms local inference speeds.
+*   Developed a secure, **high-observability backend** integrated with **Prometheus and Grafana** for real-time systems telemetry.
+
+#### 🩺 [Zitron](https://github.com/sriramxdev) — Medical Vision Platform
+*An end-to-end medical vision model and diagnostic reasoning platform for complex X-ray processing.*
+*   Designed **secure, localized inference pipelines** using local computing primitives, data storage, and performance optimization to ensure strict privacy controls for sensitive medical analytics.
+
+#### 📱 [Astride](https://github.com/sriramxdev) — Local-First Activity Tracker
+*A privacy-focused Android pedometer leveraging in-built device sensor processing.*
+*   Eliminated network dependencies using Kotlin and Jetpack Compose for a fully local-first architecture.
+*   **Optimized sensor logic to reduce CPU wake-locks**, significantly improving background battery efficiency on mobile devices.
+
+---
+
+### 📈 What I'm Focused On Right Now
+
+*   ⚙️ Deepening my knowledge of systems engineering, database internals, and container orchestration (Kubernetes/Helm).
+*   🌐 Expanding my cloud infrastructure workflow by integrating advanced automated testing and developer tooling.
+*   🍃 Refreshing advanced backend architectures and data-layer scaling strategies.
+
+---
+
+### 🤝 Connect with Me
+
+*   📧 **Email:** [contact@sriramxdev.me](mailto:contact@sriramxdev.me)
+*   💼 **LinkedIn:** [linkedin.com/in/sriramxdev](https://www.linkedin.com/in/sriramxdev/) *(Update link if applicable)*
