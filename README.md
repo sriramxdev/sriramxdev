@@ -63,4 +63,4 @@ I am a backend and systems engineer specializing in Artificial Intelligence and 
 ### 🤝 Connect with Me
 
 *   📧 **Email:** [contact@sriramxdev.me](mailto:contact@sriramxdev.me)
-*   💼 **LinkedIn:** [linkedin.com/in/sriramxdev](https://www.linkedin.com/in/sriramxdev/) *(Update link if applicable)*
+*   💼 **LinkedIn:** [linkedin.com/in/sriramxdev](https://www.linkedin.com/in/sriramxdev/)
