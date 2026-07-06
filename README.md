@@ -1,36 +1,35 @@
 # Hi, I'm Sri Ram Sharma 👋
 
-I am a backend and systems engineer specializing in Artificial Intelligence and Machine Learning. I build edge-optimized platforms, privacy-first localized architectures, and robust telemetry pipelines. I'm a strong advocate for Free and Open Source Software (FOSS), dedicated to building high-velocity, production-grade applications.
+I am a backend and systems engineer specializing in Artificial Intelligence, Machine Learning, and localized architectures. I build edge-optimized platforms, privacy-first mobile environments, and robust telemetry pipelines. I'm a strong advocate for Free and Open Source Software (FOSS), dedicated to building high-velocity, production-grade applications that move the needle.
 
-🌐 **Portfolio:** [sriramxdev.me](https://sriramxdev.me) | 🐙 **GitHub:** [github.com/sriramxdev](https://github.com/sriramxdev)
+🔗 **[Portfolio Website](https://sriramxdev.me)** | 👔 **[LinkedIn](https://linkedin.com/in/sriramxdev)** | 🐙 **[GitHub Profile](https://github.com/sriramxdev)** | 📧 **[Contact Email](mailto:contact@sriramxdev.me)**
 
 ---
 
-### 🛠️ Technical Stack & Tooling
+### 🛠️ Technical Ecosystem
 
 #### 💻 LANGUAGES & FRAMEWORKS
-*   **Languages:** Java, Python, Kotlin
+*   **Languages:** Python, Java, Kotlin, C, Go, SQL, Bash Shell Scripting
+*   **Web Frameworks:** FastAPI, Streamlit
 
 #### 🤖 AI / ML & LOCAL INFERENCE
 *   **Frameworks & Libraries:** PyTorch, Scikit-Learn, NumPy
-*   **Local Inference & Agents:** Ollama / Local LLMs, Hugging Face Spaces
+*   **Local Inference & Agents:** Ollama / Local LLMs, Autonomous AI Agents, Hugging Face Spaces
 
-#### 📱 MOBILE DEVELOPMENT
-*   **Android Architecture:** Android SDK, Jetpack Compose
-
-#### ⚙️ BACKEND ENGINEERING
-*   **Services & Tooling:** FastAPI, Streamlit
-
-#### 🌐 WEB & INTERFACE LAYERS
-*   **Frontend Ecosystem:** Astro Framework, Cloudflare Pages, Tailwind CSS
+#### ⚙️ CORE ENGINEERING & DEVOPS
+*   **Containerization & Environments:** Docker, Podman, Pixi
+*   **Operating Systems & Shell:** Linux (Fedora & Ubuntu), Git, GitHub
+*   **Telemetry & Observability:** Prometheus, Grafana
 
 #### 🗄️ DATABASE & STORAGE LAYERS
-*   **Databases:** MongoDB / BSON, SQLite, PostgreSQL, Supabase, MySQL
+*   **NoSQL & Relational:** MongoDB / BSON, PostgreSQL, MySQL, SQLite
+*   **Cloud & Backend-as-a-Service:** Supabase, Firebase
 
-#### 🛠️ CORE ENGINEERING & DEVOPS
-*   **Version Control & Platform:** Git, GitHub
-*   **Containers & Package Management:** Docker, Podman, Pixi
-*   **Operating Systems & Scripting:** Linux (Fedora & Ubuntu), Bash Shell scripting
+#### 📱 MOBILE DEVELOPMENT
+*   **Native Android:** Android SDK, Jetpack Compose
+
+#### 🌐 WEB & INTERFACE LAYERS
+*   **Frontend Ecosystem:** Astro Framework, Cloudflare Pages, Tailwind CSS, HTML, CSS, TypeScript
 
 ---
 
@@ -47,7 +46,7 @@ I am a backend and systems engineer specializing in Artificial Intelligence and 
 
 #### 📱 [Astride](https://github.com/sriramxdev) — Local-First Activity Tracker
 *A privacy-focused Android pedometer leveraging in-built device sensor processing.*
-*   Eliminated network dependencies using Kotlin and Jetpack Compose for a fully local-first architecture.
+*   Eliminated network dependencies using **Kotlin and Jetpack Compose** for a fully local-first architecture.
 *   **Optimized sensor logic to reduce CPU wake-locks**, significantly improving background battery efficiency on mobile devices.
 
 ---
@@ -57,10 +56,3 @@ I am a backend and systems engineer specializing in Artificial Intelligence and 
 *   ⚙️ Deepening my knowledge of systems engineering, database internals, and container orchestration (Kubernetes/Helm).
 *   🌐 Expanding my cloud infrastructure workflow by integrating advanced automated testing and developer tooling.
 *   🍃 Refreshing advanced backend architectures and data-layer scaling strategies.
-
----
-
-### 🤝 Connect with Me
-
-*   📧 **Email:** [contact@sriramxdev.me](mailto:contact@sriramxdev.me)
-*   💼 **LinkedIn:** [linkedin.com/in/sriramxdev](https://www.linkedin.com/in/sriramxdev/)
