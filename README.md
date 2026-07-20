@@ -3,12 +3,15 @@
   <tr>
     <!-- Left Column: Single Natively Rendered Profile Picture -->
     <td width="20%" align="center" valign="middle" style="border: none; padding: 10px;">
-      <img src="https://github.com/YOUR_GITHUB_USERNAME.png" width="100%" style="max-width: 140px; border-radius: 50%; border: 3px solid #7F52FF; display: block;" alt="Sri Ram Sharma" />
+      <img src="https://github.com/sriramxdev.png" width="100%" style="max-width: 140px; border-radius: 50%; border: 3px solid #7F52FF; display: block;" alt="Sri Ram Sharma" />
     </td>
-    <!-- Right Column: Full-Width Identity Matrix (No Text Box Borders) -->
+    <!-- Right Column: Full-Width Identity Matrix -->
     <td width="80%" valign="middle" style="border: none; padding-left: 25px;">
-      <h1 style="font-family: 'Rajdhani', sans-serif; font-size: 42px; color: #7F52FF; margin: 0; padding: 0; font-weight: 700; line-height: 1.1;">Sri Ram Sharma</h1>
-      <h3 style="margin: 8px 0 0 0; font-weight: 500; color: #ffffff;">Aspiring AI Engineer | Fullstack Dev | DevOps</h3>
+      <!-- Native Inline SVG Name Layer with Rajdhani Fallback Styling -->
+      <svg width="100%" height="55" viewBox="0 0 500 55" style="display: block;">
+        <h1 x="0" y="42" style="font-family: 'Rajdhani', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 42px; fill: #7F52FF; font-weight: 700; letter-spacing: 0.5px;">Sri Ram Sharma</h1>
+      </svg>
+      <h3 style="margin: 5px 0 0 0; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 500; color: #ffffff;">Software Developer | AI Engineer | Fullstack | DevOps</h3>
       <!-- Full Social Handles Matrix -->
       <p style="margin: 15px 0 0 0; display: flex; gap: 8px; flex-wrap: wrap;">
         <a href="https://www.linkedin.com/in/sriramxdev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
