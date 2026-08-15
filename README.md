@@ -37,28 +37,7 @@ My engineering workflow centers on building inside containerized, isolated envir
 ## 🛠️ Core Architectures & Active Engineering
 
 <table width="100%">
-  <!-- PROJECT 1: ZITRON -->
-  <tr>
-    <td width="40%" valign="top">
-      <h4>⚡ Zitron</h4>
-      <img src="https://img.shields.io/badge/Status-Active_Development-orange?style=flat-square" alt="Status"/>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres"/>
-      <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic"/>
-    </td>
-    <td width="60%" valign="top">
-      <strong>Localized Multi-Modality Privacy-Centric AI Pipeline</strong>
-      <ul>
-        <li>Ingests unstructured medical text strings and raw chest X-ray image buffers via a multi-part FastAPI gateway layer.</li>
-        <li>Mitigates model hallucinations and runtime data drift by building deterministic validation matrices using strict Python type hints and Pydantic schemas.</li>
-        <li>Decouples processing workflows by isolating individual CNN models through an optimized inference path before committing clean diagnostic state records to storage.</li>
-      </ul>
-    </td>
-  </tr>
-
-  <!-- PROJECT 2: ECHO-SYNC -->
+  <!-- PROJECT 1: ECHO-SYNC -->
   <tr>
     <td width="40%" valign="top">
       <h4>🔄 Echo-Sync</h4>
@@ -78,7 +57,7 @@ My engineering workflow centers on building inside containerized, isolated envir
     </td>
   </tr>
 
-  <!-- PROJECT 3: A-STRIDE -->
+  <!-- PROJECT 2: A-STRIDE -->
   <tr>
     <td width="40%" valign="top">
       <h4>🚶‍♂️ A-Stride</h4>
